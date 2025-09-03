@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Type checker cache
+.mypy_cache/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Build artifacts
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+

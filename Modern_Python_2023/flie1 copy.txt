@@ -1,0 +1,3 @@
+r – Read-only mode.      w – Write-only mode.   a – Append-only mode. 
+r+ – Read + Write mode.  w+ – Write + Read mode.
+a+ – Append + Read mode.
