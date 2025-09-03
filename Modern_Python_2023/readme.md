@@ -6,6 +6,8 @@
 ```
 python3 file_name.py
 ```
+[Code Blocks - readme](https://docs.readme.com/rdmd/docs/code-blocks)
+
 [Class Modern Python Crash Course (2023 - videos)](https://www.youtube.com/playlist?list=PL0vKVrkG4hWrEujmnC7v2mSiaXMV_Tfu0)
 
 [Moder Python (EnggQasim) (2023) - Github](https://github.com/panaverse/learn-modern-python/tree/main)
@@ -20,7 +22,7 @@ python3 file_name.py
 
 [Data Structures - List Metho - python.org](https://docs.python.org/3/tutorial/datastructures.html)
 
-[Python List Comprehension Syntax - geeksforgeeks](https://www.geeksforgeeks.org/python-list-comprehension/)
+[Python List Comprehension - geeksforgeeks](https://www.geeksforgeeks.org/python-list-comprehension/)
 
 ```
 newList = [ expression(element) for element in oldList if condition ] 
