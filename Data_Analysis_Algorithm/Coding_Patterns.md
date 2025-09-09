@@ -23,48 +23,48 @@ Learning to recognize them will help you approach coding interviews with confide
 These are the most common **problem-solving patterns** in Data Structures & Algorithms (DSA) and coding interviews.  
 They provide reusable approaches to solve a wide variety of problems efficiently.
 
-## 1. Sliding Window
+### 1. Sliding Window
 Used for problems involving subarrays or substrings by maintaining a moving "window" over data.  
 **Example:** Maximum sum of subarray of size K.
 
-## 2. Two Pointer
+### 2. Two Pointer
 Uses two pointers moving at different speeds or directions to reduce complexity.  
 **Example:** Check if an array has a pair that sums to a target.
 
-## 3. Modified Binary Search
+### 3. Modified Binary Search
 Adapts binary search logic for problems beyond exact match.  
 **Example:** Find first or last occurrence of a number in a sorted array.
 
-## 4. Binary Tree BFS
+### 4. Binary Tree BFS
 Traverses a binary tree level by level using a queue.  
 **Example:** Find shortest path in a binary tree.
 
-## 5. Binary Tree DFS
+### 5. Binary Tree DFS
 Traverses a binary tree depth-first (Preorder, Inorder, Postorder).  
 **Example:** Validate if a binary tree is a BST.
 
-## 6. Top K Elements
+### 6. Top K Elements
 Finds the largest, smallest, or most frequent K elements using heaps/priority queues.  
 **Example:** Top K frequent words in a list.
 
-## 7. Subset
+### 7. Subset
 Generates all subsets or combinations of elements (power set problems).  
 **Example:** Generate all subsets of a set of numbers.
 
-## 8. Topological Sort
+### 8. Topological Sort
 Orders nodes in a Directed Acyclic Graph (DAG) while respecting dependencies.  
 **Example:** Task scheduling with prerequisites.
 
-## 9. Fast & Slow Pointer
+### 9. Fast & Slow Pointer
 Uses two pointers at different speeds to detect cycles or find midpoints.  
 **Example:** Detect a cycle in a linked list.
 
-## 10. Backtracking
+### 10. Backtracking
 Recursively builds solutions, undoing steps when needed (try-and-error approach).  
 **Example:** Solve Sudoku or N-Queens problem.
 
 
-##  Why Learn These?
+###  Why Learn These?
 Mastering these patterns helps you:
 - Solve coding interview questions efficiently.  
 - Recognize hidden patterns in complex problems.  
