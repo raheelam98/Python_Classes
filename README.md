@@ -25,3 +25,5 @@
 **APIs**
 
 [APIs Explained in 6 Minutes! - ByteByteGo ](https://www.youtube.com/watch?v=hltLrjabkiY)
+
+[System Design was HARD until I Learned these 30 Concepts - Ashish Pratap Singh](https://www.youtube.com/watch?v=s9Qh9fWeOAk)
