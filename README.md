@@ -17,6 +17,8 @@
 
 ---
 
+**Deep vs Shallow Copies**
+
 [Deep vs Shallow Copies in Python - realpython](https://realpython.com/courses/deep-vs-shallow-copies/)
 
 ---
