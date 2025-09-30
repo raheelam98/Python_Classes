@@ -19,3 +19,7 @@
 
 [Deep vs Shallow Copies in Python - realpython](https://realpython.com/courses/deep-vs-shallow-copies/)
 
+---
+**APIs**
+
+[APIs Explained in 6 Minutes! - ByteByteGo ](https://www.youtube.com/watch?v=hltLrjabkiY)
