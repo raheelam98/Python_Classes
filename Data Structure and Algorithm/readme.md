@@ -19,6 +19,8 @@
 
 [Data Structure and Algorithm - Codebagel - 2022 - Good](https://www.youtube.com/watch?v=cQWr9DFE1ww&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5)
 
+[Data Structures and Algorithms in Python - Full Course for Beginners - freeCodeCamp - 2021](https://www.youtube.com/watch?v=pkYVOmU3MgA)
+
 **Leed Code**
 
 [LeetCode Pattern - AlgoMasterIO - Ashish Pratap Singh - 2025](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
