@@ -1,4 +1,4 @@
-## **Coding Patterns Cheat Sheet
+## **Coding Patterns Cheat Sheet**
 
 Common problem-solving patterns in Data Structures & Algorithms (DSA) and coding interviews:
 
