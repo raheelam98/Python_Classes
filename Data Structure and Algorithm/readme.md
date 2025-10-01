@@ -21,6 +21,10 @@
 
 [Data Structures and Algorithms in Python - Full Course for Beginners - freeCodeCamp - 2021](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
-**Leed Code**
+**Other Topics**
 
 [LeetCode Pattern - AlgoMasterIO - Ashish Pratap Singh - 2025](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
+
+[Dynamic Programming - Tushar Roy - Coding Made Simple - 2015](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
+
+[Coding Interviews - Ashish Pratap Singh](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLCZ2MME8uzMiiLoFE0E4zcXvQnZVIkCP1&index=5)
