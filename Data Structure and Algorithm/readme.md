@@ -94,5 +94,5 @@
 
 **Find Vowel**
 
-[DSA Logic They Don’t Teach You In College – Master It in Minutes! - – IGNORE & You’ll FAIL ! - Syntax Bro - 2025]](https://www.youtube.com/watch?v=8wBF0o4gKhM)
+[DSA Logic They Don’t Teach You In College – Master It in Minutes! - – IGNORE & You’ll FAIL ! - Syntax Bro - 2025](https://www.youtube.com/watch?v=8wBF0o4gKhM)
 
