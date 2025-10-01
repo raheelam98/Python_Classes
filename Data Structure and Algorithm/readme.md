@@ -1,4 +1,57 @@
 ## **Data Structure and Algorithm (DSA)**
+
+#### **Data Structures**
+
+| **Linear Data Structures** | **Non-Linear Data Structures** |
+|-----------------------------|--------------------------------|
+| Arrays                      | Trees                          |
+| Linked List                 | Binary Search Trees (BST)      |
+| Stacks                      | Heaps                          |
+| Queues                      | Graphs                         |
+| Hash Table                  | Trie                           |
+|                             | Union Find                     |
+
+#### **Data Structures and Algorithms**
+
+| **Data Structures**         | **Algorithms / Techniques**            |
+|------------------------------|----------------------------------------|
+| Arrays                      | Searching                              |
+| Linked List                 | Sorting                                |
+| Stacks & Queues             | Recursion / Backtracking               |
+| Hash Tables                 | Two Pointers / Sliding Window          |
+| Trees / BST / Trie          | Bit Manipulation                       |
+| Heaps                       | Greedy                                 |
+| Graphs / Union-Find         | Dynamic Programming 
+
+#### **Algorithms**
+
+- **Sorting** – Arrange data in ascending or descending order (e.g., Quick Sort, Merge Sort, Bubble Sort).  
+- **Binary Search** – Efficient search on sorted arrays with O(log n) complexity.  
+- **Bit Manipulation** – Use of bitwise operations for optimization (XOR tricks, masks).  
+- **Tree Traversals:**  
+  - **In-order** – Left → Root → Right  
+  - **Pre-order** – Root → Left → Right  
+  - **Post-order** – Left → Right → Root  
+  - **Level-order** – Breadth-first traversal using a queue.  
+- **DFS (Depth First Search) / BFS (Breadth First Search):** Graph and tree traversal techniques.  
+- **Topological Sort** – Linear ordering of vertices in a Directed Acyclic Graph (DAG).  
+- **Dijkstra’s Algorithm** – Shortest path algorithm for weighted graphs with non-negative edges.  
+- **Bellman-Ford Algorithm** – Shortest path algorithm that works with negative weights.  
+
+#### **Problem-Solving Techniques**
+
+- **Two Pointers** – Solve problems by moving two pointers at different speeds or directions.  
+- **Sliding Window** – Maintain a window (subarray/string) to optimize time complexity.  
+- **Prefix Sum** – Precompute sums for efficient range queries.  
+- **Fast and Slow Pointers** – Detect cycles (e.g., linked list cycle detection).  
+- **Divide & Conquer** – Break problem into subproblems (e.g., Merge Sort, Binary Search).  
+- **Greedy** – Make locally optimal choices to achieve global optimum.  
+- **Recursion** – Solve problems by calling a function within itself.  
+- **Backtracking** – Explore all possibilities (e.g., N-Queens, Sudoku).  
+- **Dynamic Programming (DP)** – Optimize recursive problems using memoization or tabulation.  
+- **Top K Elements** – Use heaps/priority queues to find largest or smallest K elements efficiently.  
+
+---
   
 **DSA**
 
