@@ -40,20 +40,25 @@
 
 #### **Problem-Solving Techniques**
 
+- **Searching**
+- **Sorting**
+
 - **Two Pointers** – Solve problems by moving two pointers at different speeds or directions.  
-- **Sliding Window** – Maintain a window (subarray/string) to optimize time complexity.  
+- **Sliding Window** – Maintain a window (subarray/string) to optimize time complexity.
+- - **Recursion** – Solve problems by calling a function within itself.  
+- **Backtracking** – Explore all possibilities (e.g., N-Queens, Sudoku).
+- **Dynamic Programming (DP)** – Optimize recursive problems using memoization or tabulation.
+   
+   
 - **Prefix Sum** – Precompute sums for efficient range queries.  
 - **Fast and Slow Pointers** – Detect cycles (e.g., linked list cycle detection).  
 - **Divide & Conquer** – Break problem into subproblems (e.g., Merge Sort, Binary Search).  
 - **Greedy** – Make locally optimal choices to achieve global optimum.  
-- **Recursion** – Solve problems by calling a function within itself.  
-- **Backtracking** – Explore all possibilities (e.g., N-Queens, Sudoku).  
-- **Dynamic Programming (DP)** – Optimize recursive problems using memoization or tabulation.  
 - **Top K Elements** – Use heaps/priority queues to find largest or smallest K elements efficiently.  
 
 ---
   
-**DSA**
+#### **DSA**
 
 [Data Structures & Algorithms - CS Dojo - 2018](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=1)
 
@@ -63,8 +68,9 @@
 
 [Algorithms - Abdul Bari - 2018](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
+[DSA Videos - Syntax Bro - 2025](https://www.youtube.com/playlist?list=PLgfSGcRg4Aq1NBMk4YzkmeEiLmFPMvfx8)
 
-**DSA - Python**
+#### **DSA - Python**
 
 [Data Structure and Algorithm Patterns for LeetCode Interviews – freeCodeCamp - Sheldon Chai - 2025](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=1970s)
 
@@ -74,10 +80,19 @@
 
 [Data Structures and Algorithms in Python - Full Course for Beginners - freeCodeCamp - 2021](https://www.youtube.com/watch?v=pkYVOmU3MgA)
 
-**Other Topics**
+#### **Other Topics**
 
 [LeetCode Pattern - AlgoMasterIO - Ashish Pratap Singh - 2025](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
 
 [Dynamic Programming - Tushar Roy - Coding Made Simple - 2015](https://www.youtube.com/watch?v=8LusJS5-AGo&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
 [Coding Interviews - Ashish Pratap Singh](https://www.youtube.com/watch?v=F-ao3Q6I2Fc&list=PLCZ2MME8uzMiiLoFE0E4zcXvQnZVIkCP1&index=5)
+
+#### **Short Videos DSA**
+
+[The FASTEST Way To 10X Your DSA – IGNORE & You’ll FAIL ! - Syntax Bro - 2025](https://www.youtube.com/watch?v=1n1Xw3Sgjzs)
+
+**Find Vowel**
+
+[DSA Logic They Don’t Teach You In College – Master It in Minutes! - – IGNORE & You’ll FAIL ! - Syntax Bro - 2025]](https://www.youtube.com/watch?v=8wBF0o4gKhM)
+
