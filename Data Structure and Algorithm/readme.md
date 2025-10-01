@@ -13,4 +13,12 @@
 
 **DSA - Python**
 
-[Data Structure and Algorithm Patterns for LeetCode Interviews – freeCodeCamp - 2025](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=1970s)
+[Data Structure and Algorithm Patterns for LeetCode Interviews – freeCodeCamp - Sheldon Chai - 2025](https://www.youtube.com/watch?v=Z_c4byLrNBU&t=1970s)
+
+[DSA Course in Python - Greg Hogg - 2024](https://www.youtube.com/watch?v=aWKEBEg55ps&list=PLKYEe2WisBTGq9T0wPulXz1otUsVeOGey)
+
+[Data Structure and Algorithm - Codebagel - 2022 - Good](https://www.youtube.com/watch?v=cQWr9DFE1ww&list=PLUITAQK78D8PByrC3XDuF-elzSK7QWXO5)
+
+**Leed Code**
+
+[LeetCode Pattern - AlgoMasterIO - Ashish Pratap Singh - 2025](https://www.youtube.com/watch?v=QzZ7nmouLTI&list=PLK63NuByH5o-tqaMUHRA4r8ObRW7PWz45)
