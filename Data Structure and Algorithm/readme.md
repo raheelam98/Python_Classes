@@ -1,5 +1,26 @@
 ## **Data Structure and Algorithm (DSA)**
 
+--- 
+#### `if ... in` Condition - Practice Questions
+
+1. **Vowel Check**  
+   Check if a given character is a vowel (`'a','e','i','o','u'`).  
+
+2. **Check for Letter 'z'**  
+   Ask the user to enter a word and check if the word contains the letter `"z"`.  
+
+3. **Fruit in List**  
+   Given a list of fruits, check if `"apple"` is in the list.  
+
+4. **Digit in String**  
+   Write a program to check if a string contains any digit (`0–9`).  
+
+5. **Username Exists**  
+   Check if the entered username exists in a predefined list of usernames.  
+
+
+---
+
 #### **Data Structures**
 
 | **Linear Data Structures** | **Non-Linear Data Structures** |
