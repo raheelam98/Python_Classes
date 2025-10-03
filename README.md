@@ -14,6 +14,10 @@
 
 [learnpython.org](https://www.learnpython.org/)
 
+**Python Exercise**
+
+[Python Exercise -  w3schools.com](https://www.w3schools.com/python/python_exercises.asp)
+
 
 ---
 
